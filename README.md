@@ -1,2 +1,2 @@
 # landing-page
-#This design has taken by <a href="dailyui.com"></a>
+#This design has taken by dailyui.com
